@@ -24,8 +24,8 @@
         fullStyle: [
           `/*
 * 创意 by http://strml.net/
-* 二月了，好多公司都在招聘，你是不是也在准备简历呀。
-* 说做就做，我也来写一份简历！
+* 二月了，想做个vue的项目。
+* 说做就做，写一份简历！
 */
 
 /* 首先给所有元素加上过渡效果 */
@@ -37,7 +37,7 @@
 html {
   color: rgb(222,222,222); background: rgb(0,43,54); 
 }
-/* 文字离边框太近了 */
+/* 文字边框 */
 .styleEditor {
   padding: .5em;
   border: 1px solid;
